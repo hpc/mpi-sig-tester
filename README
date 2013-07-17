@@ -1,0 +1,9 @@
+A simple MPI app that helps with Moab signal testing.
+
+== Build
+  make
+  - or -
+  make CC=mpicc
+
+== Run
+  mpirun/aprun/srun mpi-sig-tester
